@@ -38,7 +38,7 @@ The pipeline translates raw ML confidence scores into a prioritized action queue
 ## 7. Reproducibility & Artifacts
 All data processing, baseline generation, model training, and output creation were executed programmatically in Jupyter Notebooks. The repository includes the complete feature engineering pipeline (`w03_feature_leakage_check.ipynb`), model training and split validation (`w05_model.ipynb`), and the playbook generation script (`w07_action_playbook.ipynb`).
 
-* **Repository URL:** [Insert your GitHub Repo URL here]
+* **Repository URL:** https://github.com/ShivanshRastogi315/FlyRank_Internship-repo.git
 * **Actionable Output Artifact:** `work/outputs/ml10_action_playbook.csv`
 
 ---
